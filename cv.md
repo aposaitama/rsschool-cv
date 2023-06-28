@@ -18,4 +18,9 @@
 * C++ and C# Basics
 * Git, Github, Gitlab
 * Photoshop
-    
+---
+### Languages:
+* Engish - B2
+* Ukrainian - Native
+* Russian - Intermediate
+  
