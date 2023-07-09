@@ -1,2 +1,2 @@
 
-https://aposaitama.github.io/rsschool-cv-html/
+https://aposaitama.github.io/rsschool-cv/
