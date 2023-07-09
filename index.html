@@ -82,7 +82,7 @@
                         function compose() { <br>
                             &nbsp;let funcs = Array.from(arguments); <br>
                             &nbsp; return function (x) {<br>
-                            &nbsp;  &nbsp; if (funcs.length < 1) return x;<br>
+                            &nbsp;  &nbsp; if (funcs.length<1) return x;<br>
                             &nbsp; let f = funcs[funcs.length - 1](x);<br>
                             &nbsp;  for (let i = funcs.length - 2; i >= 0; i--) {<br>
                                    &nbsp;    &nbsp; f = funcs[i](f);<br>
@@ -103,9 +103,8 @@
                 
                 
 
-                </div>
+                
             </div>
-
         </section>
         
     </main>
